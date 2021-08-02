@@ -9,3 +9,6 @@ An advertiser on the platform (DeltaX) would like to estimate the performance of
 3. Support vector Regressor
 4. RandomForestRegressor
 5. Nueral Network for regression
+## Conclusions:
+1. XGBRegressor and RandomForestRegressor model predicted most accuratly
+2. Archived RMSE value of ~122 for private leaderboard and 130.86 for public leaderboard in Hackathon
